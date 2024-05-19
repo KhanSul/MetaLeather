@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-geologica: Geologica;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --color-white: #fff;
+}
